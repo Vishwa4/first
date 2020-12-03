@@ -1,13 +1,9 @@
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 import java.util.Scanner;
 
 public class demo {
-    public static void main(String[] args) throws ParseException {
-        Scanner sc=new Scanner(System.in);
+    public static void main(String[] args) {
         System.out.println("THIS IS VISHWA");
         LocalDate my=LocalDate.now();
         System.out.println(my);
@@ -33,6 +29,6 @@ class hello{
 }
 class hi{
     public static void main(String[] args){
-        System.out.println("khsaf");
+        System.out.println("hi");
     }
 }
