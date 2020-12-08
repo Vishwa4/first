@@ -1,3 +1,4 @@
+/*
 public class inheritance {
     public static void main(String[] args){
         parent p = new parent();
@@ -25,4 +26,4 @@ class child extends parent{
         System.out.println("THIS IS CHILD");
     }
     int i=10;
-}
+}*/
